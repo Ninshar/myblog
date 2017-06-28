@@ -6,4 +6,5 @@ module.exports = {
         maxAge:2592000000
     },
     mongodb:'mongodb://localhost:27017/myblog'
+    // mongodb://linxia:linxia@ds141401.mlab.com:41401/linbolg
 }
